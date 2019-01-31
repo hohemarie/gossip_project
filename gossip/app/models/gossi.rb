@@ -1,0 +1,2 @@
+class Gossi < ApplicationRecord
+end
